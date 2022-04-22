@@ -2,6 +2,7 @@ from email import utils
 from unicodedata import name
 from web3 import Web3
 import time
+import config
 
 
 
